@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fblog\u002Fantecipacao-saque-aniversario-fgts","\u002Fblog\u002Fdeclaracao-de-imposto-de-renda-2022","\u002Fblog","\u002Frefinanciamento-financiamento-santander","\u002Fblog\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
